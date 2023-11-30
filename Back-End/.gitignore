@@ -1,0 +1,4 @@
+#.gitignore
+.venv #<-- python venv if it lives in your project directories
+__pycache__ # <--- python stashed changes 
+.env # <--- .env file holding secret elements
